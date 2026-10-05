@@ -1,0 +1,11 @@
+{
+  "title": "The Corner Pocket — Billiards Club",
+  "description": "Play a realistic 2D top-down billiards game with solo and duel modes featuring smooth physics, customizable textures, and intuitive drag-to-shoot controls.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
